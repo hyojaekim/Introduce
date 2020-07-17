@@ -96,3 +96,16 @@ a {
     height: 100px;
     background: rgb(29,29,31);
 }
+.mid-message {
+    padding: 0 1rem;
+    font-size: 2rem;
+    color: #888;
+}
+.mid-message strong {
+    color: rgb(29, 29, 31);
+}
+.canvas-caption {
+    padding: 0 1rem;
+    font-size: 1.2rem;
+    color: #888;
+}
