@@ -68,6 +68,14 @@ a {
     text-align: center;
     line-height: 1.2;
 }
+.main-message small {
+    display: block;
+    margin-bottom: 0.5em;
+    font-size: 1.2rem;
+}
+#scroll-section-2 .main-message {
+    font-size: 3.5rem;
+}
 .description {
     padding: 0 1rem;
     font-size: 1.2rem;
@@ -78,4 +86,13 @@ a {
     margin-right: 0.2em;
     font-size: 3rem;
     color: rgb(29,29,31);
+}
+.desc-message {
+    width: 50%;
+    font-weight: bold;
+}
+.pin {
+    width: 1px;
+    height: 100px;
+    background: rgb(29,29,31);
 }
