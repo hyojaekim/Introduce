@@ -109,3 +109,11 @@ a {
     font-size: 1.2rem;
     color: #888;
 }
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7rem;
+    background: rgb(29, 29, 31);
+    color: white;
+}
